@@ -16,8 +16,7 @@ export default {
   height: 600px;
   background-color: white;
   border-radius: 10px;
-  padding:1px
-
+  padding:10px solid aliceblue;
 }
 .btn-24,
 .btn-24 *,
